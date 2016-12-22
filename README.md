@@ -2,6 +2,7 @@
 
 思路：
 从csv文件中读取url和其对应的字符叠加，存入字典中，循环写入
+
 环境：
 1. python环境 2.7
 2. 安装selenium包: pip install selenium
